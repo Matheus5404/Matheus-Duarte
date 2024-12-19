@@ -25,16 +25,16 @@
   #### Languages i'm lightly familiar 
       
      <div style="display: inline_block">
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+        <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
         <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
-              </div>
+    </div>
 
   ### Languages i'm familiar
 
     <div style="display: inline_block">
-      <img align="center"  alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white" />
+      <img align="center"  alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
     </div>
 
