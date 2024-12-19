@@ -72,7 +72,10 @@
     <div>
     
     ### My Stats
-    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martins05&theme=dark&layout=compact&langs_count=5)](https://github.com/Martins-readme-stats)
     
-   
     </div>
+
+    ## Past Works
+  <li>
+    <b> [Artigo ERP.docx](https://github.com/user-attachments/files/18202987/Artigo.ERP.docx) </b>
+  </li>
