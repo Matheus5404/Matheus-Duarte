@@ -16,7 +16,7 @@
       <b>Hobbies:</b> I like running outdoors, listening to music, reading, drawing and trying foreign foods.
     </li>
     <li>
-      <b>Studying@:</b>  Fatec Itu - ADS 2°Semester
+      <b>Studying@:</b>  Fatec Itu - ADS 2°Semestre
     </li>
     
 
@@ -63,8 +63,8 @@
      <a href="https://judge.beecrowd.com/pt/profile/1015755">
     <img align="center" alt="Beecrownd" src="https://img.shields.io/badge/Beecrownd-000000?style=for-the-badge" />
     </a>
-     <a href="https://judge.beecrowd.com/pt/profile/1015755">
-    <img align="center" alt="Alura" src="https://img.shields.io/badge/Beecrownd-000000?style=for-the-badge" />
+     <a href="https://www.duolingo.com/learn">
+    <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" />
     </a>
    </div>
 
@@ -76,8 +76,3 @@
     
    
     </div>
-
-    ## Past Works
-    <li>
-       
-    </li>
