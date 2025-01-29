@@ -1,7 +1,6 @@
-
-<div class="tenor-gif-embed" data-postid="15396270" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-asleep-asleep-on-keyboard-keyboard-computer-gif-15396270">Cat Asleep GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJmN2N4bTl0cGp2bHpjdTBkbWpxdDM4bmp4eHIzbDE3dThubW9mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="GIF engraçado">
+</p>
 
 ## Hi there, I'm Matheus Duarte 👋
 
